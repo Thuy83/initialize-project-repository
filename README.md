@@ -7,3 +7,4 @@ resolve bug causing incorrect data rendering
 improve project documentation in README
 reorganize code for better readability and structure
 format code and adjust naming conventions
+optimize loading speed for better performance
